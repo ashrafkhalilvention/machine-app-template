@@ -1,0 +1,24 @@
+{
+  "name": "machine-app-template",
+  "version": "1.0.0",
+  "description": "A dummy package.json for machine-app-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user/machine-app-template.git"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "jest": "^26.6.3"
+  }
+}
